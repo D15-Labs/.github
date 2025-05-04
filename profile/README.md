@@ -1,31 +1,5 @@
 # D15 Labs
 
-## Building Digital Excellence
-
-Welcome to D15's GitHub organization. We are a software development company based in Sri Lanka focused on creating robust, scalable, and innovative solutions for our clients.
-
-## What We Do
-
-We specialize in:
-- Full stack development
-- Custom software development
-- Web and mobile applications
-- Cloud solutions and DevOps
-- Data engineering and analytics
-- AI/ML integration
-
-## Our Approach
-
-At D15, we believe in:
-- Collaboration over competition
-- Iterative development and continuous improvement
-- Adopting the right technology for the right problem
-- Creating software that solves real-world challenges
-
-## Our Presence
-
-Based in Sri Lanka, we work with clients worldwide, bringing global standards to every project regardless of location.
-
 ## 🔗 Connect With Us
 
 - [Website](https://d15labs.com)
