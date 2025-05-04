@@ -10,10 +10,6 @@
 
 Interested in working with us? Reach out at [hello@d15.com](mailto:hello@d15labs.com)
 
-## Resources
-
-Explore our public repositories to see some of our open-source contributions and projects.
-
 ---
 
 © 2025 D15 Labs | All rights reserved
