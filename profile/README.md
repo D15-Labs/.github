@@ -4,7 +4,7 @@
 - [LinkedIn](https://www.linkedin.com/company/d15-labs)
 - [Twitter](https://twitter.com/d15labs)
 
-Interested in working with us? Reach out at [hello@d15.com](mailto:hello@d15labs.com)
+Interested in working with us? Reach out at [careers@d15.com](mailto:careers@d15labs.com)
 
 ---
 
